@@ -5,10 +5,12 @@ My analysis for the ride-sharing app of Pyber was tasked with creating summary d
 ## Results
 The results of the analysis were different my initial expectations when I was first tasked with the question, “how does the data compare?”  What I gathered from the data frames was that on average the cost per ride, and the fare per driver was higher in Rural locations than it was for any city type! This struct me as odd because with the sheer volume of major cities, or more densely populated areas we could expect rates to be slightly higher on average due to surge charges and other factors, However, the results showed us the complete opposite with Urban areas being the cheapest.  I have attached both the data frame and the chart below for clearer visualization.
 
-Data Frame:
+#Data Frame:
+
  ![image](https://user-images.githubusercontent.com/101610050/165011275-f058ac88-e6d7-4aae-90d1-5677cb1f3c09.png)
 
-Chart:
+#Chart:
+
  ![image](https://user-images.githubusercontent.com/101610050/165011281-46cab12f-18fd-4ab2-8763-8a2a603827b1.png)
 
 
